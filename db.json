@@ -1,0 +1,32 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "city": "belgrade",
+        "img": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "belgrade Kalemegdan tour",
+        "info": "lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    },
+    {
+      "id": 2,
+      "city": "wien",
+        "img": "https://media.istockphoto.com/photos/vienna-aerial-view-at-night-picture-id483201541",
+        "name": "wien tour",
+        "info": "lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    },
+  
+    {
+      "id": 3,
+      "city": "budapest",
+        "img": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "budapest tour",
+        "info": "lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    },
+    {
+      "id": 4,
+      "city": "praha",
+        "img": "https://media.istockphoto.com/photos/old-town-square-and-church-of-our-lady-before-tn-in-prague-at-sunrise-picture-id965384836",
+        "name": "praha tour",
+        "info": "lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    }]
+}
